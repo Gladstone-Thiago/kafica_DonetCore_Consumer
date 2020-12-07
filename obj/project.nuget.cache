@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZll8P9rvTjfT/UFUtTigOWHOUVIh1E1F875tmz2CfYi2r3uJEoBj/hzanLKBaFrR5K8fgbvcj2C6nBmWD1kWg==",
+  "success": true,
+  "projectFilePath": "C:\\Benner\\CasoUso_kafica_core\\kafka-consumer-simples-csharp-master\\kafka-consumer-simples-csharp\\kafka-consumer-simples-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Gladstone\\.nuget\\packages\\confluent.kafka\\1.4.3\\confluent.kafka.1.4.3.nupkg.sha512",
+    "C:\\Users\\Thiago Gladstone\\.nuget\\packages\\librdkafka.redist\\1.4.2\\librdkafka.redist.1.4.2.nupkg.sha512",
+    "C:\\Users\\Thiago Gladstone\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
